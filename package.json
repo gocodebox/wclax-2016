@@ -1,0 +1,9 @@
+{
+  "name": "wclax-2016",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Thomas Patrick Levy",
+  "devDependencies": {
+    "gulp-sass": "^2.3.1"
+  }
+}
